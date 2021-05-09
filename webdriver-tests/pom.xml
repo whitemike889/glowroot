@@ -18,7 +18,7 @@
 
   <properties>
     <selenium.version>3.141.59</selenium.version>
-    <jetty.version>9.4.26.v20200117</jetty.version>
+    <jetty.version>9.4.40.v20210413</jetty.version>
   </properties>
 
   <dependencies>
